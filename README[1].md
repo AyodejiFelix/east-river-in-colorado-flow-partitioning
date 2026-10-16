@@ -195,4 +195,4 @@ If you use this code or these results, please cite:
 
 ## Contact
 
-Ayodeji Felix Isarinade — [contact email or preferred contact method — TODO]
+Ayodeji Felix Isarinade — [Felix_Isarinade1@baylor.edu]
