@@ -1,0 +1,166 @@
+epoch    1  loss=1947.4139  q_loss=1736.0554 (n=1754)  cl_loss=665.4460 (n=778)  smooth_loss=0.00071 (weighted=0.1058)  barrier_loss=0.19365 (weighted=11.6189)
+epoch   20  loss=1097.6205  q_loss=1056.7107 (n=1754)  cl_loss=126.8303 (n=778)  smooth_loss=0.00980 (weighted=1.4702)  barrier_loss=0.02318 (weighted=1.3906)
+epoch   40  loss=1038.4493  q_loss=992.0348 (n=1754)  cl_loss=143.0504 (n=778)  smooth_loss=0.01643 (weighted=2.4644)  barrier_loss=0.01725 (weighted=1.0350)
+epoch   60  loss=999.9939  q_loss=959.3698 (n=1754)  cl_loss=121.8861 (n=778)  smooth_loss=0.02299 (weighted=3.4480)  barrier_loss=0.01017 (weighted=0.6103)
+epoch   80  loss=962.8579  q_loss=923.8161 (n=1754)  cl_loss=117.2474 (n=778)  smooth_loss=0.02313 (weighted=3.4700)  barrier_loss=0.00663 (weighted=0.3976)
+epoch  100  loss=923.4414  q_loss=889.8232 (n=1754)  cl_loss=100.6203 (n=778)  smooth_loss=0.02088 (weighted=3.1318)  barrier_loss=0.00500 (weighted=0.3002)
+epoch  120  loss=888.7860  q_loss=863.4064 (n=1754)  cl_loss=72.7166 (n=778)  smooth_loss=0.02249 (weighted=3.3733)  barrier_loss=0.00319 (weighted=0.1913)
+epoch  140  loss=861.9456  q_loss=839.6093 (n=1754)  cl_loss=61.4947 (n=778)  smooth_loss=0.02509 (weighted=3.7634)  barrier_loss=0.00208 (weighted=0.1246)
+epoch  160  loss=837.2294  q_loss=817.3039 (n=1754)  cl_loss=52.9663 (n=778)  smooth_loss=0.02657 (weighted=3.9855)  barrier_loss=0.00084 (weighted=0.0502)
+epoch  180  loss=815.0775  q_loss=796.5300 (n=1754)  cl_loss=47.9405 (n=778)  smooth_loss=0.02755 (weighted=4.1318)  barrier_loss=0.00056 (weighted=0.0335)
+epoch  200  loss=795.6112  q_loss=778.5552 (n=1754)  cl_loss=42.9317 (n=778)  smooth_loss=0.02769 (weighted=4.1535)  barrier_loss=0.00038 (weighted=0.0230)
+epoch  220  loss=777.9487  q_loss=761.9201 (n=1754)  cl_loss=39.6763 (n=778)  smooth_loss=0.02733 (weighted=4.0989)  barrier_loss=0.00045 (weighted=0.0268)
+epoch  240  loss=761.8162  q_loss=746.7606 (n=1754)  cl_loss=36.4897 (n=778)  smooth_loss=0.02726 (weighted=4.0888)  barrier_loss=0.00033 (weighted=0.0199)
+epoch  260  loss=746.9650  q_loss=732.6411 (n=1754)  cl_loss=34.0905 (n=778)  smooth_loss=0.02718 (weighted=4.0773)  barrier_loss=0.00033 (weighted=0.0195)
+epoch  280  loss=733.3331  q_loss=719.5699 (n=1754)  cl_loss=32.0792 (n=778)  smooth_loss=0.02746 (weighted=4.1193)  barrier_loss=0.00033 (weighted=0.0201)
+epoch  300  loss=720.6130  q_loss=707.4869 (n=1754)  cl_loss=29.9194 (n=778)  smooth_loss=0.02754 (weighted=4.1307)  barrier_loss=0.00033 (weighted=0.0195)
+epoch  320  loss=708.6454  q_loss=696.0543 (n=1754)  cl_loss=28.0897 (n=778)  smooth_loss=0.02765 (weighted=4.1479)  barrier_loss=0.00027 (weighted=0.0162)
+epoch  340  loss=697.5193  q_loss=685.2366 (n=1754)  cl_loss=26.9010 (n=778)  smooth_loss=0.02794 (weighted=4.1909)  barrier_loss=0.00036 (weighted=0.0215)
+epoch  360  loss=687.1064  q_loss=675.3319 (n=1754)  cl_loss=25.1683 (n=778)  smooth_loss=0.02803 (weighted=4.2041)  barrier_loss=0.00033 (weighted=0.0200)
+epoch  380  loss=677.4368  q_loss=666.0155 (n=1754)  cl_loss=24.0552 (n=778)  smooth_loss=0.02789 (weighted=4.1835)  barrier_loss=0.00035 (weighted=0.0212)
+epoch  400  loss=668.4059  q_loss=657.4306 (n=1754)  cl_loss=22.7743 (n=778)  smooth_loss=0.02747 (weighted=4.1200)  barrier_loss=0.00038 (weighted=0.0230)
+epoch  420  loss=659.9501  q_loss=649.5100 (n=1754)  cl_loss=21.1321 (n=778)  smooth_loss=0.02723 (weighted=4.0844)  barrier_loss=0.00027 (weighted=0.0160)
+epoch  440  loss=652.1257  q_loss=642.0486 (n=1754)  cl_loss=20.1089 (n=778)  smooth_loss=0.02681 (weighted=4.0222)  barrier_loss=0.00037 (weighted=0.0222)
+epoch  460  loss=644.9709  q_loss=635.3641 (n=1754)  cl_loss=18.8337 (n=778)  smooth_loss=0.02626 (weighted=3.9391)  barrier_loss=0.00029 (weighted=0.0174)
+epoch  480  loss=638.3970  q_loss=629.0722 (n=1754)  cl_loss=18.1042 (n=778)  smooth_loss=0.02579 (weighted=3.8681)  barrier_loss=0.00042 (weighted=0.0254)
+epoch  500  loss=632.3725  q_loss=623.3527 (n=1754)  cl_loss=17.2392 (n=778)  smooth_loss=0.02547 (weighted=3.8212)  barrier_loss=0.00045 (weighted=0.0269)
+epoch  520  loss=626.9694  q_loss=618.2379 (n=1754)  cl_loss=16.3569 (n=778)  smooth_loss=0.02533 (weighted=3.7996)  barrier_loss=0.00041 (weighted=0.0249)
+epoch  540  loss=622.0448  q_loss=613.6013 (n=1754)  cl_loss=15.5890 (n=778)  smooth_loss=0.02496 (weighted=3.7435)  barrier_loss=0.00039 (weighted=0.0234)
+epoch  560  loss=617.4726  q_loss=609.2538 (n=1754)  cl_loss=14.9862 (n=778)  smooth_loss=0.02463 (weighted=3.6938)  barrier_loss=0.00049 (weighted=0.0292)
+epoch  580  loss=613.3218  q_loss=605.3589 (n=1754)  cl_loss=14.2507 (n=778)  smooth_loss=0.02442 (weighted=3.6624)  barrier_loss=0.00042 (weighted=0.0253)
+epoch  600  loss=609.5387  q_loss=601.7564 (n=1754)  cl_loss=13.7271 (n=778)  smooth_loss=0.02424 (weighted=3.6357)  barrier_loss=0.00047 (weighted=0.0285)
+epoch  620  loss=606.1212  q_loss=598.5160 (n=1754)  cl_loss=13.2185 (n=778)  smooth_loss=0.02407 (weighted=3.6110)  barrier_loss=0.00048 (weighted=0.0286)
+epoch  640  loss=602.9427  q_loss=595.4625 (n=1754)  cl_loss=12.7808 (n=778)  smooth_loss=0.02411 (weighted=3.6161)  barrier_loss=0.00050 (weighted=0.0298)
+epoch  660  loss=600.0287  q_loss=592.6214 (n=1754)  cl_loss=12.5547 (n=778)  smooth_loss=0.02399 (weighted=3.5989)  barrier_loss=0.00070 (weighted=0.0420)
+epoch  680  loss=597.3060  q_loss=590.0029 (n=1754)  cl_loss=12.1788 (n=778)  smooth_loss=0.02408 (weighted=3.6119)  barrier_loss=0.00062 (weighted=0.0375)
+epoch  700  loss=594.7819  q_loss=587.5632 (n=1754)  cl_loss=11.8951 (n=778)  smooth_loss=0.02409 (weighted=3.6137)  barrier_loss=0.00061 (weighted=0.0364)
+epoch  720  loss=592.5565  q_loss=585.3732 (n=1754)  cl_loss=11.7378 (n=778)  smooth_loss=0.02413 (weighted=3.6199)  barrier_loss=0.00070 (weighted=0.0421)
+epoch  740  loss=590.6321  q_loss=583.5383 (n=1754)  cl_loss=11.4322 (n=778)  smooth_loss=0.02423 (weighted=3.6340)  barrier_loss=0.00050 (weighted=0.0301)
+epoch  760  loss=588.9719  q_loss=581.8893 (n=1754)  cl_loss=11.3234 (n=778)  smooth_loss=0.02432 (weighted=3.6486)  barrier_loss=0.00062 (weighted=0.0370)
+epoch  780  loss=587.5794  q_loss=580.5275 (n=1754)  cl_loss=11.1753 (n=778)  smooth_loss=0.02442 (weighted=3.6628)  barrier_loss=0.00061 (weighted=0.0365)
+epoch  800  loss=586.4181  q_loss=579.3705 (n=1754)  cl_loss=11.0997 (n=778)  smooth_loss=0.02450 (weighted=3.6751)  barrier_loss=0.00071 (weighted=0.0426)
+epoch  820  loss=585.4633  q_loss=578.4392 (n=1754)  cl_loss=10.9867 (n=778)  smooth_loss=0.02458 (weighted=3.6868)  barrier_loss=0.00069 (weighted=0.0413)
+epoch  840  loss=584.6976  q_loss=577.6880 (n=1754)  cl_loss=10.9021 (n=778)  smooth_loss=0.02465 (weighted=3.6981)  barrier_loss=0.00068 (weighted=0.0408)
+epoch  860  loss=584.0985  q_loss=577.1000 (n=1754)  cl_loss=10.8412 (n=778)  smooth_loss=0.02470 (weighted=3.7051)  barrier_loss=0.00068 (weighted=0.0411)
+epoch  880  loss=583.6517  q_loss=576.6689 (n=1754)  cl_loss=10.7772 (n=778)  smooth_loss=0.02474 (weighted=3.7108)  barrier_loss=0.00065 (weighted=0.0388)
+epoch  900  loss=583.3275  q_loss=576.3433 (n=1754)  cl_loss=10.7634 (n=778)  smooth_loss=0.02476 (weighted=3.7134)  barrier_loss=0.00070 (weighted=0.0418)
+epoch  920  loss=583.1099  q_loss=576.1337 (n=1754)  cl_loss=10.7324 (n=778)  smooth_loss=0.02477 (weighted=3.7157)  barrier_loss=0.00068 (weighted=0.0408)
+epoch  940  loss=582.9760  q_loss=576.0006 (n=1754)  cl_loss=10.7229 (n=778)  smooth_loss=0.02478 (weighted=3.7170)  barrier_loss=0.00069 (weighted=0.0415)
+epoch  960  loss=582.9058  q_loss=575.9321 (n=1754)  cl_loss=10.7149 (n=778)  smooth_loss=0.02479 (weighted=3.7178)  barrier_loss=0.00069 (weighted=0.0415)
+epoch  980  loss=582.8791  q_loss=575.9045 (n=1754)  cl_loss=10.7153 (n=778)  smooth_loss=0.02479 (weighted=3.7180)  barrier_loss=0.00070 (weighted=0.0420)
+epoch 1000  loss=582.8748  q_loss=575.9004 (n=1754)  cl_loss=10.7146 (n=778)  smooth_loss=0.02479 (weighted=3.7180)  barrier_loss=0.00070 (weighted=0.0420)
+training took 1374.6s
+{
+  "Rustlers": {
+    "Q_NSE": -87.7181505975561,
+    "Q_RMSE": 0.14914262302361053,
+    "Cl_NSE": -22.66331010252241,
+    "Cl_RMSE": 0.4705216814912427,
+    "n_Qobs": 74,
+    "n_Clobs": 51
+  },
+  "Copper": {
+    "Q_NSE": -3.591074699954305,
+    "Q_RMSE": 0.22358467909852042,
+    "Cl_NSE": -2.644522758451454,
+    "Cl_RMSE": 0.21537222460018735,
+    "n_Qobs": 117,
+    "n_Clobs": 54
+  },
+  "EAQ": {
+    "Q_NSE": 0.11124830247612238,
+    "Q_RMSE": 0.25116637914155415,
+    "Cl_NSE": -18.2144067453544,
+    "Cl_RMSE": 0.40226692198023706,
+    "n_Qobs": 465,
+    "n_Clobs": 50
+  },
+  "Gothic_ME": {
+    "Q_NSE": -2783.5549918559295,
+    "Q_RMSE": 2.20817233913277,
+    "Cl_NSE": -4.466892563898386,
+    "Cl_RMSE": 0.2354809596009627,
+    "n_Qobs": 488,
+    "n_Clobs": 48
+  },
+  "PH_LT": {
+    "Q_NSE": 0.2526519117516689,
+    "Q_RMSE": 2.930638642351997,
+    "Cl_NSE": -0.5839586681869076,
+    "Cl_RMSE": 0.35327428233366903,
+    "n_Qobs": 610,
+    "n_Clobs": 575
+  }
+}
+{
+  "Rustlers": {
+    "Kf_recession_perday": 0.042087189853191376,
+    "Kf_storm_perday": 0.251547634601593,
+    "Kf_a_per_mm": 3.3096868991851807,
+    "Kf_b_mm": 0.31471413373947144,
+    "Kf_perday": 0.19217680394649506,
+    "Kf_t_min": 0.09672293066978455,
+    "Kf_t_max": 0.251547634601593,
+    "Ks_perday": 0.022280730307102203,
+    "alphaET": 0.25259461998939514,
+    "Cin_mgL": 0.2842519283294678,
+    "Cin_fast_mgL": 0.2842519283294678,
+    "Cin_gw_mgL": 0.2842519283294678
+  },
+  "Copper": {
+    "Kf_recession_perday": 0.06752818077802658,
+    "Kf_storm_perday": 0.364639014005661,
+    "Kf_a_per_mm": 3.116908073425293,
+    "Kf_b_mm": 0.5402577519416809,
+    "Kf_perday": 0.26036161184310913,
+    "Kf_t_min": 0.11404839158058167,
+    "Kf_t_max": 0.364639014005661,
+    "Ks_perday": 0.02105657011270523,
+    "alphaET": 0.23381826281547546,
+    "Cin_mgL": 0.32616153359413147,
+    "Cin_fast_mgL": 0.32616153359413147,
+    "Cin_gw_mgL": 0.32616153359413147
+  },
+  "EAQ": {
+    "Kf_recession_perday": 0.05624373257160187,
+    "Kf_storm_perday": 0.18945369124412537,
+    "Kf_a_per_mm": 4.417924404144287,
+    "Kf_b_mm": 0.3683371841907501,
+    "Kf_perday": 0.15504786372184753,
+    "Kf_t_min": 0.07811713963747025,
+    "Kf_t_max": 0.18945369124412537,
+    "Ks_perday": 0.024167625233530998,
+    "alphaET": 0.47146591544151306,
+    "Cin_mgL": 0.330371618270874,
+    "Cin_fast_mgL": 0.330371618270874,
+    "Cin_gw_mgL": 0.330371618270874
+  },
+  "Gothic_ME": {
+    "Kf_recession_perday": 0.05449496954679489,
+    "Kf_storm_perday": 0.3809172809123993,
+    "Kf_a_per_mm": 2.9278666973114014,
+    "Kf_b_mm": 0.7947918772697449,
+    "Kf_perday": 0.24810145795345306,
+    "Kf_t_min": 0.0835164487361908,
+    "Kf_t_max": 0.3809172809123993,
+    "Ks_perday": 0.020372673869132996,
+    "alphaET": 0.22226621210575104,
+    "Cin_mgL": 0.3175223767757416,
+    "Cin_fast_mgL": 0.3175223767757416,
+    "Cin_gw_mgL": 0.3175223767757416
+  },
+  "PH_LT": {
+    "Kf_recession_perday": 0.018232349306344986,
+    "Kf_storm_perday": 1.1371914148330688,
+    "Kf_a_per_mm": 4.117404937744141,
+    "Kf_b_mm": 0.37749752402305603,
+    "Kf_perday": 0.7374729514122009,
+    "Kf_t_min": 0.2134511023759842,
+    "Kf_t_max": 1.1371914148330688,
+    "Ks_perday": 0.04925544187426567,
+    "alphaET": 0.6830060482025146,
+    "Cin_mgL": 0.469433069229126,
+    "Cin_fast_mgL": 0.469433069229126,
+    "Cin_gw_mgL": 0.469433069229126
+  }
+}
