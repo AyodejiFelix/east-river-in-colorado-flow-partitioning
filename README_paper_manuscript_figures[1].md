@@ -1,4 +1,4 @@
-# Paper 1 — Manuscript Figures Notebook
+# Manuscript Figures Notebook
 
 `paper1_manuscript_figures.ipynb` is a single, fully-executed Jupyter
 notebook that reproduces the manuscript's figures directly from this
