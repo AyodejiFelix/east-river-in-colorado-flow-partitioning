@@ -77,21 +77,6 @@ days its held-out metrics are computed from.
   compute-driven scope reduction — each additional PINN seed costs ~34 min
   on this environment's CPUs vs. ~1 min for an LSTM seed.
 
-## Corrections applied in this revision
-
-An earlier draft of this notebook proposed a Figure 1/4–13 mapping before
-the current manuscript draft had been checked directly. Verifying it
-against the manuscript's actual captions found it wrong for 10 of 11
-slots (only the storage-dynamics figure coincidentally matched). This
-version replaces every mismatched figure/caption and drops an earlier,
-invented "multi-seed KGE/PBIAS" figure entirely — no such figure exists in
-the manuscript (KGE is reported in Table 5, baseflow PBIAS in Table 2).
-
-Two figures were checked against the manuscript's full text before being
-confirmed as correctly excluded: `09_storage_floor_diagnostic.png` and
-`10_ode_exactness_check.png` are genuinely diagnostic-only and do not
-correspond to any manuscript figure under any name.
-
 ## Running it yourself
 
 The notebook is self-contained given the repo layout: it imports directly
